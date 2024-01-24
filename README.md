@@ -30,7 +30,7 @@ If the user has been registered on the app, can login by passing the credentials
 ### •User's Profile:
 After the user logged in, a simple profile with the user's username and password <br>displayed with a session Logout button.
 
-<img src="./docs/data.PNG" height="160" width="380" style="border: 1px solid black;">
+<img src="https://github.com/Namithareddy105/-final-web-development-major-project-/commit/6f49bc6f111968b060be06689f98c0d083ed74ad#diff-dab1ab3e3ac338c094c967ff209c38774b6d7c4175ea2271bf080baa79b62427" height="160" width="380" style="border: 1px solid black;">
 
 ### •Password Reset:
 If the user forget his/her password, can reset by entering the registered Email id <br>and reset the password.
