@@ -44,7 +44,7 @@ Here we use **[MongoDB Atlas(Cloud)](https://www.mongodb.com/cloud/atlas)** as t
 
 A Collection(**Users**) is populated with the user's credentials.
 
-<img src="./docs/userdb.PNG" height="300" width="720" style="border: 1px solid black;"><br><br>
+<img src="https://github.com/Namithareddy105/-final-web-development-major-project-/commit/6f49bc6f111968b060be06689f98c0d083ed74ad#diff-bb0e00c7e78f499f1fa78c5eab44babb58c0bfed181525cefaaa789df60f7786" height="300" width="720" style="border: 1px solid black;"><br><br>
 
 A Collection(**session**) is created which stores the users Logged session.
 
